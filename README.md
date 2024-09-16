@@ -29,7 +29,7 @@ ZaBoteru is an innovative smart bottle that works efficiently to prevent dehydra
 ## Setup Instructions
 
 1. Clone this repository to your local machine.
-2. Connect your hardware components as described in the system hardware guide provided. Click [Here](Assets/ZaBoteru_Hardware_Connection_Guide.pdf) to download ZaBoteru Hardware Connection Guide (PDF).
+2. Connect your hardware components as described in the system hardware guide provided. Click [Here](Assets/ZaBoteru_Hardware_connection_Guide.pdf) to download ZaBoteru Hardware Connection Guide (PDF).
 3. **Firebase Setup:**
    Create your Firebase project and configure the necessary parameters. Please refer to the System Architecture section [Here](https://github.com/ZaBoteru/ZaBoteru-HydrationApp/tree/main?tab=readme-ov-file#our-system-architecture) to get the required parameters.
 4. Open the [source code](Source-Code/smart_water_bottle/smart_water_bottle.ino) in the Arduino IDE.
